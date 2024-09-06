@@ -1,0 +1,23 @@
+Room: 684T
+====================================
+Player Name: "MYSTERON", Player ID: "DDD9E885C0E80719", Player Color: (R: 0, G: 0, B: 0), Cosmetics: ITEMS.LFADV.LBAGE.LBAFV.LBAFT.LBAFO.LBAFL.LBAFN.LMAIL.LBAAA.LFADK.
+====================================
+Player Name: "gorilla9726", Player ID: "FE23BDFB7082A0A2", Player Color: (R: 102.5713, G: 253.521, B: 150.4872), Cosmetics: ITEMS.LHAEK.LBAHA.LMAFA.LHAGH.LBAGT.LBAAB.LMAAM.LMAIG.LHAFK.LBAFI.LSABG.
+====================================
+Player Name: "LITTLETIMMY", Player ID: "913CF8AE66D759F3", Player Color: (R: 255, G: 255, B: 255), Cosmetics: ITEMS.LFAAG.LFADW.LHAAA.LBAFV.LBAFN.LMAIL.LHABP.LFADK.LFAAN.LHAAN.LHAAC.LFACY.LBADS.LFAAL.LBAAB.LBADB.LHAAP.LHACV.LBACA.
+====================================
+Player Name: "CHUNKYMONKEY", Player ID: "DCAE984F2BBAAA5B", Player Color: (R: 0, G: 226.6667, B: 255), Cosmetics: ITEMS.LBAGY.LBAGT.LMABP.LBAGN.LBAGE.LBAGD.LHAAD.LHACV.LBAFV.LBACD.LBAFL.LBAFN.LMAIL.LHAAE.LBAAB.LFAAL.LHAAC.LBAET.
+====================================
+Player Name: "MOON", Player ID: "624223D962A29EA", Player Color: (R: 255, G: 0, B: 0), Cosmetics: ITEMS.LFABN.LMAAT.LHACH.LBABS.LSAAF.LFACY.LBADS.LMAAR.LMAAF.LHAAP.LHAAR.LHAAN.LBADC.LHAAB.LBACD.LBAAB.LBACT.LHAAL.LMACM.LHABP.LBACQ.LMACT.LFAAL.LHACZ.LBAAC.LFAAM.LMACR.LFABX.LHAAC.
+====================================
+Player Name: "NAT", Player ID: "F5F86383DD4FAB1D", Player Color: (R: 198.3333, G: 226.6667, B: 56.66666), Cosmetics: ITEMS.LFABN.LBAGT.LBAFA.LBAFH.LMAIL.LMAAP.LBAAB.LBAAC.LFADK.LBAEO.LBACJ.LFADF.LBAEB.LBAEA.LHACW.LBACD.LMAAU.LBADS.LHAAE.LFAAN.LHAAC.
+====================================
+Player Name: "COOLGRANNNY1", Player ID: "396B351CCFEAD145", Player Color: (R: 0, G: 0, B: 0), Cosmetics: ITEMS.LBAHF.LBAFL.LHAAP.LMAIL.LBAFN.LFAAN.LBAEO.LFADK.LHAAC.
+====================================
+Player Name: "9098", Player ID: "E122E5E5AD96567D", Player Color: (R: 255, G: 0, B: 84.99999), Cosmetics: ITEMS.
+====================================
+Player Name: "GREY", Player ID: "C6AF30CFAFA10D78", Player Color: (R: 255, G: 255, B: 255), Cosmetics: ITEMS.LHAAC.LBAGY.LHAAN.LBAGT.LBAAC.LBAGN.LBAGO.LBAGP.LBAAB.LBAAJ.LBAGE.
+====================================
+
+====================================
+Text file generated with ii's Stupid Menu

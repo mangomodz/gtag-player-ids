@@ -1,0 +1,19 @@
+Room: JMANCURLY
+====================================
+Player Name: "MINIGAMES", Player ID: "F4422AFCD6394175", Player Color: (R: 255, G: 255, B: 255), Cosmetics: ITEMS.LBAHF.LFACY.LHAAG.LHAAL.LBAAB.LHAAP.LHAGM.LMAKR.LBAGY.LHAAN.LBAGO.LBAGT.LBAGN.LHAAC.
+====================================
+Player Name: "ARTHUR", Player ID: "A69A89D3ABCEBE66", Player Color: (R: 170, G: 28.33333, B: 255), Cosmetics: ITEMS.LBAHF.LBAGN.LBAGO.LHAAC.LBAAB.LBAGY.LHAAE.
+====================================
+Player Name: "TTTSOUNDRAT", Player ID: "1593DB2F0B8E487E", Player Color: (R: 0, G: 255, B: 56.66666), Cosmetics: ITEMS.LFAAA.LMALE.LMAKX.LSABP.LBAHE.LFAED.LMALH.LHAAN.LBAHF.LFACZ.LFACT.LSABN.LMAAT.LBAGY.LHAAO.LBAAJ.LBAGT.LHAED.LFADX.LBAGN.LBAGO.LBAGP.LFADV.LBAGE.LHACR.LBAGD.LFACK.LBAFV.LBACA.LHAAP.LBAFL.LBAFN.LMAIL.LFAAN.LHACY.LFAAL.LBAET.LHAAE.LBAAB.LHAAC.
+====================================
+Player Name: "gorillaJAYDE", Player ID: "400CFE5FADC7D417", Player Color: (R: 0, G: 198.3333, B: 255), Cosmetics: ITEMS.
+====================================
+Player Name: "ROBERT", Player ID: "70DA4EF6EB8E73F9", Player Color: (R: 84.99999, G: 0, B: 113.3333), Cosmetics: ITEMS.LHAEL.LBAGY.LBADO.LBAGT.LSAAZ.LBADF.LBADG.LBAGN.LBAGO.LBAGP.LFABI.LBABN.LMAAL.LSABK.LBAGF.LHAGB.LBAGE.LHABS.LFADS.LBAGD.LMAAT.LHAAB.LBAFV.LMAIH.LMAII.LSABG.LHAFK.LBAFI.LMAIG.LBAFD.LBAFL.LBAFN.LBAFN.LMAIL.LFACB.LHAAK.LFADM.LBAET.LBADB.LBAEO.LFAAM.LMACK.LHAAP.LBAAB.LMACJ.LMAHJ.LHAFG.LSABE.LBAES.LFADK.LHAAC.
+====================================
+Player Name: "DASH", Player ID: "A2B1FD5F22CF49", Player Color: (R: 141.6667, G: 0, B: 226.6667), Cosmetics: ITEMS.LHAAC.LMAKX.S. FIRST LOGIN
+====================================
+Player Name: "RAPMANCURLY", Player ID: "3149C1C37FEB648E", Player Color: (R: 0, G: 226.6667, B: 255), Cosmetics: ITEMS.LBAHF.LBAGN.LBAGO.LBAGP.LHAAE.LHAAC.LBAGY.
+========================================================================
+Player Name: "SAULGOODMAN", Player ID: "617AD2BC10AA1888", Player Color: (R: 0, G: 56.66666, B: 0), Cosmetics: ITEMS.LHAAC.LBAAB.
+====================================
+Text file generated with ii's Stupid Menu

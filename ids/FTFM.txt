@@ -1,0 +1,23 @@
+Room: FTFM
+====================================
+Player Name: "LUNY", Player ID: "262E10CDB0C7895D", Player Color: (R: 113.3333, G: 0, B: 170), Cosmetics: ITEMS.LHABC.LSABN.LHAAC.LBAGE.LBABF.LBAFJ.LBAFN.LBAFL.LMAIL.LHABI.LFABB.LBAET.LBAAC.
+====================================
+Player Name: "GT5", Player ID: "AD0EB29CA5CBB6A5", Player Color: (R: 84.99999, G: 28.33333, B: 141.6667), Cosmetics: ITEMS.LBAFV.LBAFL.LMAII.LBACU.LHAAP.LBAFE.LMAIL.LHAFK.LSABG.LMAIG.LBAFI.LBAFN.LMACR.LHABI.LMAHY.LSABF.LHAFJ.LBAEU.LMAHU.LHAAO.LBAEO.LMAHK.LFADK.LMACK.LBACJ.
+====================================
+Player Name: "DEDAS", Player ID: "6E80B1A79A3C51F4", Player Color: (R: 113.3333, G: 56.66666, B: 56.66666), Cosmetics: ITEMS.LFAEB.LBAFV.LHACY.
+====================================
+Player Name: "DIETA", Player ID: "C29AA432ECFAA993", Player Color: (R: 255, G: 255, B: 255), Cosmetics: ITEMS.LBAEY.LBAFL.LBACT.LMACT.LBACQ.LHACW.LMABO.LMAAT.LMAAZ.LFABN.LFAAJ.LHAAE.LFABH.LFABC.LFAAH.LFABF.LBAAZ.LBABA.LHAAO.LHAAQ.LHAAP.LFABB.LHAAN.LFABA.LFAAN.LBAAB.LFAAL.LHAAL.LHAAT.LHAAC.TBAAI.TFAAN.THAAR.
+====================================
+Player Name: "WINDUPTOY", Player ID: "F6A4CF22C63789CC", Player Color: (R: 141.6667, G: 113.3333, B: 0), Cosmetics: ITEMS.LFAAO.LBAGY.LHAEI.LBAGO.LFAAF.LSABN.LBAGT.LHAED.LBAGN.LBAGD.LHAAD.LBAAU.LBAFL.LBAET.LHADH.LBAEO.LMABB.LMAGW.LMAGX.LHAEV.LSABD.LMAGR.LBAEF.LBAEE.LBAEB.LBAEA.LHAAJ.LHAAB.LFAAL.LBABQ.LBADS.LBAAA.LHAAL.LHAAR.LHACY.LFAAE.LBAAC.LHAAC.LHAAQ.LBACQ.LMACT.LMACQ.LMAAR.LMABO.LFAAN.LMAAZ.LHAAP.LBAAB.LMAAM.LFABN.
+====================================
+Player Name: "NOOB", Player ID: "156052232AE53DD", Player Color: (R: 255, G: 255, B: 255), Cosmetics: ITEMS.LFAEG.LBAHF.LFACX.LHAAR.LBAGY.LHAAC.LFAAL.LBAGO.LBAAJ.LFAAN.LBAGD.LHAAL.
+====================================
+Player Name: "TWISTED2914", Player ID: "30E22236E65B689B", Player Color: (R: 84.99999, G: 84.99999, B: 84.99999), Cosmetics: ITEMS.LHAAP.
+====================================
+Player Name: "gorilla6485", Player ID: "6CBB7781686E4AF4", Player Color: (R: 113.3333, G: 255, B: 255), Cosmetics: ITEMS.
+====================================
+
+====================================
+Player Name: "GIKLJ", Player ID: "9ABE65C66FB631A5", Player Color: (R: 170, G: 0, B: 255), Cosmetics: 
+====================================
+Text file generated with ii's Stupid Menu

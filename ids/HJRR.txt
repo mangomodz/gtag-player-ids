@@ -1,0 +1,23 @@
+Room: HJRR
+====================================
+Player Name: "ISHOWMEAT", Player ID: "BAF65047240099BA", Player Color: (R: 0, G: 0, B: 0), Cosmetics: ITEMS.LBAHF.LBAGN.LBAGO.LBAGP.LBAGY.
+====================================
+Player Name: "IAMAGRLE", Player ID: "CF59BDDB9FE025EA", Player Color: (R: 226.6667, G: 84.99999, B: 255), Cosmetics: ITEMS.LHAAC.LHAAP.
+====================================
+Player Name: "LOLTMZ", Player ID: "FF8249A845FA690F", Player Color: (R: 0, G: 0, B: 0), Cosmetics: ITEMS.LBAAB.LHAAC.LBAHF.LMABP.LBAGY.LFAAL.
+====================================
+Player Name: "RBHZAINN", Player ID: "C669CEC333B467F4", Player Color: (R: 0, G: 0, B: 0), Cosmetics: ITEMS.LHAAR.LBAHF.LHAAB.LBAGY.LHAAF.LBAGO.LBAGP.LBAGN.LBAGT.LHAAC.
+====================================
+Player Name: "CREAMNT", Player ID: "AE95E50B8B81240D", Player Color: (R: 255, G: 0, B: 226.6667), Cosmetics: ITEMS.LFACW.LBAGY.LMAKR.LBAGT.LBADK.LBAGO.LBAGN.LBAGP.LFADW.LBAGE.LFABE.LBAFV.LHABR.LBAFL.LBAFN.LMAIL.LBAET.LHAAA.LHACY.LBAEO.LFAAW.LFAAI.LHAAP.LFADF.LHABP.LBAEA.LBADB.LHAAC.LFAAL.LBADS.LBACA.
+====================================
+Player Name: "DEMOON", Player ID: "42AA73394AE78C67", Player Color: (R: 141.6667, G: 0, B: 226.6667), Cosmetics: ITEMS.LBAGP.LBAGN.LFACS.LBAGO.LMAKR.LBAGT.LHAED.LBAGE.LHACW.LBAGD.LHAAJ.LBAAH.LBAFV.LFACE.LBAFL.LMABP.LBAFN.LMAIL.LHAAB.LBAET.LFADK.LHAFE.LBAEO.LFAAQ.LFADF.LBAEB.LHACY.LHAAN.LBADS.LBACD.LHAAO.LFAAI.LHAAE.LHAAD.LBADB.LFAAN.LFAAL.LBAAB.LBADC.LHACV.LHAAC.LHAAP.LHAAL.
+====================================
+Player Name: "NOTCHEESE", Player ID: "79CDA3E10F392E1C", Player Color: (R: 226.6667, G: 226.6667, B: 0), Cosmetics: ITEMS.LMAAR.LBAHF.LHAAN.LBAGY.LBAAJ.LBAGT.LBAGO.LBAGP.LHAAC.LBAAH.LBAGN.
+====================================
+Player Name: "9", Player ID: "42A385897A8BFDAB", Player Color: (R: 0, G: 113.3333, B: 255), Cosmetics: ITEMS.LBAHF.LBAAA.LHAAC.
+====================================
+Player Name: "SANIGM", Player ID: "8D701085EB63C107", Player Color: (R: 113.3333, G: 113.3333, B: 255), Cosmetics: ITEMS.LBAHF.LSABN.LBAGY.LMAKJ.LBAGT.LHAAC.LBAGN.LBAGP.LBAGO.LBAFO.LBAAC.LMADU.LMAJM.LHABP.LBAGE.
+====================================
+
+====================================
+Text file generated with ii's Stupid Menu

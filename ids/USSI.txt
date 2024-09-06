@@ -1,0 +1,22 @@
+Room: USSI
+====================================
+Player Name: "SONICUR143", Player ID: "82AF39BA96C2B95A", Player Color: (R: 0, G: 0, B: 0), Cosmetics: ITEMS.LMABP.
+====================================
+Player Name: "ISABELL", Player ID: "679EDFF703679AA5", Player Color: (R: 198.3333, G: 170, B: 198.3333), Cosmetics: ITEMS.LBAHF.LHAAO.LBAAG.LBAGY.LMAAN.LSABN.LMAKD.LBAGT.LFACL.LBAGP.LBAGO.LBAGN.LFABI.LBAGE.LHACW.LBAGD.LFACK.LHAAI.LFACF.LMADI.LSAAT.LBAAC.LBAFL.LBAFN.LMAIL.LMABP.LBACA.LBAET.LFAAN.LHAAP.LFADK.LFAAL.LBAEO.LHAAC.LBAAB.
+====================================
+Player Name: "BATMAN", Player ID: "D34B687C072926CE", Player Color: (R: 0, G: 0, B: 0), Cosmetics: ITEMS.LFAAL.
+====================================
+Player Name: "HI", Player ID: "93F1647F39E70653", Player Color: (R: 170, G: 113.3333, B: 113.3333), Cosmetics: ITEMS.LHAAC.LMACR.LFABC.LHACY.S. FIRST LOGIN
+====================================
+Player Name: "THEODORE", Player ID: "77014227CF166217", Player Color: (R: 113.3333, G: 113.3333, B: 113.3333), Cosmetics: ITEMS.LFAEG.LHAAN.LFAEF.LMALA.LMALG.LBAHF.LFAAH.LFACY.LBADR.LBACA.LFACQ.LHAEK.LFAAL.LBAGY.LHAAE.LBAGN.LBAGP.LBAGO.LBAGT.LHAAP.LBAAB.LHAAC.
+====================================
+Player Name: "TTTPIG", Player ID: "A7B6EC6D55804365", Player Color: (R: 56.66666, G: 0, B: 84.99999), Cosmetics: ITEMS.LBAHF.LHAAC.LBAGY.LBAGN.LHACV.LMABP.
+====================================
+Player Name: "gorilla3208", Player ID: "8D750B5FDA44C292", Player Color: (R: 0, G: 0, B: 255), Cosmetics: ITEMS.
+====================================
+Player Name: "GOLDENFUTURE", Player ID: "631FC5B517FF7836", Player Color: (R: 113.3333, G: 0, B: 198.3333), Cosmetics: ITEMS.LBAHF.LFACW.LBAHA.LSABN.LBAGY.LMAFH.LBAGT.LBAGP.LBAGO.LBAGN.LMAJU.LBAGR.LSABL.LBAGL.LHAGD.
+====================================
+Player Name: "PIXIE", Player ID: "D2016145002D5D36", Player Color: (R: 255, G: 170, B: 226.6667), Cosmetics: ITEMS.LBAHF.LFAEG.LHAAS.LBAGY.LFAAL.LHAAB.LBAGT.LBAAF.LHACZ.LBAGN.LBAGP.LBAGO.LHAAC.LBAGH.LBAGE.LHAAP.
+====================================
+====================================
+Text file generated with ii's Stupid Menu
